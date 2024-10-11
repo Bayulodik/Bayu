@@ -38,3 +38,5 @@
 
 <p>cukup mudah bukan? sekarang mari kita terapkan ke java</p>
 
+https://github.com/Bayulodik/Bayu/blob/main/exam.java
+
