@@ -16,7 +16,7 @@
   <tr>
     <th>10/2</th>
     <th>5</th>
-    <th>1</th>
+    <th>0</th>
   </tr>
   <tr>
     <th>5/2</th>
