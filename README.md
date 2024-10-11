@@ -58,3 +58,5 @@ public class exam{
 }
 ```
 
+<p>saya harap teman teman bisa paham dan dapat menerapkannya secara mandiri, saya rasa cuku dan jangan lupa kasih star :D</p>
+
