@@ -4,4 +4,42 @@
 
 <p>sekarang bagaimana cara untuk mengubah angka desimal ke angka biner? </p>
 
-<p>well, cara nya cukup mudah, coba lihat rumus berikut ini:</p>
+<p>well, cara nya cukup mudah, coba lihat contoh berikut ini:</p>
+
+<p>25 -> biner? </p>
+<table>
+  <tr>
+    <th>bagi</th>
+    <th>modulus</th>
+    <th>hasil</th>
+  </tr>
+  <tr>
+    <th>25/2</th>
+    <th>12%2</th>
+    <th>0</th>
+  </tr>
+  <tr>
+    <th>12/2</th>
+    <th>6%2</th>
+    <th>0</th>
+  </tr>
+  <tr>
+    <th>6/2</th>
+    <th>3%2</th>
+    <th>1</th>
+  </tr>
+<tr>
+    <th>3/2</th>
+    <th>1%2</th>
+    <th>1</th>
+ </tr>
+ <tr>
+    <th>1/2</th>
+    <th>0%2</th>
+    <th>0</th>
+ </tr>
+
+
+
+</table>
+
