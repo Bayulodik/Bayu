@@ -6,40 +6,33 @@
 
 <p>well, cara nya cukup mudah, coba lihat contoh berikut ini:</p>
 
-<p>25 -> biner? </p>
+<p>10 -> biner? </p>
 <table>
   <tr>
     <th>bagi</th>
-    <th>modulus</th>
-    <th>hasil</th>
+    <th>hasil bagi</th>
+    <th>modulus 2</th>
   </tr>
   <tr>
-    <th>25/2</th>
-    <th>12%2</th>
+    <th>10/2</th>
+    <th>5</th>
+    <th>1</th>
+  </tr>
+  <tr>
+    <th>5/2</th>
+    <th>2</th>
+    <th>1</th>
+  </tr>
+  <tr>
+    <th>2/2</th>
+    <th>1</th>
     <th>0</th>
   </tr>
   <tr>
-    <th>12/2</th>
-    <th>6%2</th>
-    <th>0</th>
-  </tr>
-  <tr>
-    <th>6/2</th>
-    <th>3%2</th>
-    <th>1</th>
-  </tr>
-<tr>
-    <th>3/2</th>
-    <th>1%2</th>
-    <th>1</th>
- </tr>
- <tr>
     <th>1/2</th>
-    <th>0%2</th>
     <th>0</th>
- </tr>
-
-
+    <th>1</th>
+  </tr>
 
 </table>
 
