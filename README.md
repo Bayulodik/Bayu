@@ -33,6 +33,8 @@
     <th>0</th>
     <th>1</th>
   </tr>
-
 </table>
+<p>sekarang kalian hitung dari bawah keatas dan kita akan mendapati angka 1010, biner dari angka desimal 10</p>
+
+<p>cukup mudah bukan? sekarang mari kita terapkan ke java</p>
 
